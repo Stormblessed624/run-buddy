@@ -77,6 +77,11 @@ section {
     position: relative;
 }
 
+.hero-cta h2 {
+    color: #fce138;
+    font-size: 45px;
+}
+
 .hero-form {
     background-color: #fce138;
     padding: 20px;
